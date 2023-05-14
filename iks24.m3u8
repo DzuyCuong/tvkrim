@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3658436,RESOLUTION=1920x1080
+http://stv92-live.cdnvideo.ru/stv92/stv92/playlist.m3u8

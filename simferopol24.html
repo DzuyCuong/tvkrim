@@ -1,0 +1,32 @@
+<html>
+<title>TV channel online</title>
+<body>
+
+<div id="iptv_div">Loading . . .</div>
+
+<script src="https://jwpsrv.com/library/LrqgNHEzEeKoaSIACp8kUw.js"></script>
+<script>jwplayer.key="9M2UTC2nyBWiC6s9XmUANzL1mggJyTqvVTSfkdoqtVs="</script>
+
+<script>
+newurll="simferopol24.m3u8";
+
+jwplayer("iptv_div").setup({
+   repeat: true,
+   width: '100%',
+   height: '100%',
+   stretching: "fill",
+   file: newurll,
+   autostart: false,
+   volume: 80,
+   skin: "bekle",
+   fallback: false,
+   analytics: {
+        enabled: true,
+        cookies: true
+   }
+});
+
+</script>
+
+</body>
+</html>
