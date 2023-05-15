@@ -1,0 +1,50 @@
+[
+    {
+        "name":"banner",
+        "text":"LIVE-TV SERVICE"
+    }
+,   {
+        "name":"1crimea",
+        "hq":"https://cdn.1tvcrimea.ru/1tvcrimea.m3u8",
+        "img": "https://assets-iptv2022.cdnvideo.ru/static/channel/10130/logo_256_1660806736.png"
+    }
+,   {
+        "name":"crimea24",
+        "lq":"https://cdn.1tvcrimea.ru/switcher.m3u8",
+        "hq":"https://cdn.1tvcrimea.ru/24tvcrimea.m3u8",
+        "img": "https://assets-iptv2022.cdnvideo.ru/static/channel/10131/logo_256_1660805381.png"
+    }
+,   {
+        "name":"millet",
+        "hq":"https://live.trkmillet.ru/millet/index.m3u8",
+        "img": "https://assets-iptv2022.cdnvideo.ru/static/channel/10361/logo_256_1660805685.png"
+    }
+,   {
+        "name":"simferopol24",
+        "hq":"https://sevas.1tvcrimea.ru/legendarniy24.m3u8",
+        "img": "https://assets-iptv2022.cdnvideo.ru/static/channel/14106/logo_256_1673861735.png"
+    }
+,   {
+        "name":"ikstv",
+        "hq":"https://live-ikstv.cdnvideo.ru/ikstv/ikstv/playlist.m3u8",
+        "img": "https://assets-iptv2022.cdnvideo.ru/static/channel/10187/logo_256_1660807261.png"
+    }
+,   {
+        "name":"iks24",
+        "hq":"https://stv92-live.cdnvideo.ru/stv92/stv92/playlist.m3u8",
+        "img": "https://assets-iptv2022.cdnvideo.ru/static/channel/10438/logo_256_1660807176.png"
+    }
+,   {
+        "name":"ntstv",
+        "hq":"https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8",
+        "img": "https://assets-iptv2022.cdnvideo.ru/static/channel/10325/logo_256_1660806619.png"
+    }
+,   {
+        "name":"legendarnii24",
+        "hq":"https://sevas.1tvcrimea.ru/legendarniy24.m3u8",
+        "img": "https://assets-iptv2022.cdnvideo.ru/static/channel/14099/logo_256_1673861613.png"
+    }
+
+
+ 
+]
